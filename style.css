@@ -1,0 +1,20 @@
+.container {
+	padding-top: 20px;	
+	background-color: lime;
+	padding-bottom: 40px;
+}
+h3 {
+	padding-top: 30px;
+}
+button {
+	background-color: black;
+	color: lime;
+	width: 200px;
+	height:100px;
+}
+.badge {
+	background-color: black;
+	color: lime;
+
+}
+
